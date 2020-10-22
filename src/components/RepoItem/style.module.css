@@ -1,0 +1,41 @@
+.root {
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  min-height: 2.75rem;
+  font-weight: 500;
+}
+.root:nth-child(odd) {
+  background-color: #e5e5e5;
+}
+
+.name {
+  flex: 1;
+  padding: 0.625rem 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.star-count {
+  display: flex;
+  align-items: center;
+  min-width: 6rem;
+}
+.star-count .icon {
+  margin-right: 0.125rem;
+  width: 16px;
+}
+
+a {
+  text-decoration: none;
+  width: 16px;
+}
+a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+a:active {
+  opacity: 0.4;
+}
