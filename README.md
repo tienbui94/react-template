@@ -69,7 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Contributors
 
-Nguyễn Công Long (FHM.AVI) -LongNC5
+Bui Quang Tien (FHM.AVI) -TienBQ
 [react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template)
 
 ## License
